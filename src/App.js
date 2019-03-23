@@ -30,6 +30,7 @@ class App extends Component {
         //this.setState({ a: 0 });
         //this.setState({ c: { d: 2 } });
         //this.setState(prevState => ({ c: { ...prevState.c, d: 2 } }));
+
         console.log("update ends");
     }
 
